@@ -1,0 +1,3718 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="06/05/22||01:40:04" using="Simscape Multibody Link Version 7.0" from="SolidWorks 29.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Assembly_S" uid="Assembly_S" version="589">
+<AssemblyFile name="Assembly_S.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="T1-4" uid="T1-4" entityUid="T1*:*Default">
+<Transform>
+<Rotation>-1 -4.4408920985006271e-16 0 0 1.9081958235744883e-16 -1 4.4408920985006271e-16 -1 -1.9081958235744883e-16</Rotation>
+<Translation>-0.14628827152561055 -0.016350000000000059 -0.081724105011933126</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-8" uid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-8" entityUid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V*:*Default">
+<Transform>
+<Rotation>4.5975048182391143e-16 -1 -1.6653345369377365e-16 0 -1.6653345369377363e-16 1 -1 -4.5975048182391143e-16 0</Rotation>
+<Translation>-0.1146432715256105 0.055299999999999988 -0.11752410501193314</Translation>
+</Transform>
+</Instance>
+<Instance name="box hold_frame_-4" uid="box hold_frame_-4" entityUid="box hold_frame_*:*Default">
+<Transform>
+<Rotation>-1 0 -2.7755575615628918e-16 0 1 0 2.7755575615628918e-16 0 -1</Rotation>
+<Translation>-0.13484327152561054 0.022499999999999985 -0.12752410501193318</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 Aluminium 25T Servo Horn-7" uid="SW2020 Aluminium 25T Servo Horn-7" entityUid="SW2020 Aluminium 25T Servo Horn*:*Default">
+<Transform>
+<Rotation>0 -1 -1.4988010832439613e-15 -1 0 4.6143644460983069e-16 -4.6143644460983069e-16 1.4988010832439613e-15 -1</Rotation>
+<Translation>-0.18628827152561059 0.088399999999999881 -0.095224105011933138</Translation>
+</Transform>
+</Instance>
+<Instance name="Mirrortop_mot_hold_2-4" uid="Mirrortop_mot_hold_2-4" entityUid="Mirrortop_mot_hold_2*:*Default">
+<Transform>
+<Rotation>-1 0 -2.7755575615628918e-16 0 1 0 2.7755575615628918e-16 0 -1</Rotation>
+<Translation>-0.18628827152561056 0.092868600682593838 -0.12502410501193315</Translation>
+</Transform>
+</Instance>
+<Instance name="T1-1-4" uid="T1-1-4" entityUid="T1-1*:*Default">
+<Transform>
+<Rotation>1 3.3306690738754706e-16 1.405126015541213e-16 1.4051260155412137e-16 -2.4633073358870661e-16 -1 -3.3306690738754701e-16 1 -2.4633073358870666e-16</Rotation>
+<Translation>-0.19628827152561046 0.056899999999999937 -0.089224105011933105</Translation>
+</Transform>
+</Instance>
+<Instance name="motor arm-5" uid="motor arm-5" entityUid="motor arm*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11683827152561049 0.058300000000000012 0.13327589498806688</Translation>
+</Transform>
+</Instance>
+<Instance name="T1-1-5" uid="T1-1-5" entityUid="T1-1*:*Default">
+<Transform>
+<Rotation>1 2.7755575615628918e-16 1.4224732503009816e-16 1.4224732503009816e-16 0 -1 -2.7755575615628918e-16 1 0</Rotation>
+<Translation>-0.19628827152561046 0.056899999999999937 0.16157589498806674</Translation>
+</Transform>
+</Instance>
+<Instance name="T4-5" uid="T4-5" entityUid="T4*:*Default">
+<Transform>
+<Rotation>-1 1.9428902930940232e-16 6.6266436782314031e-16 -6.6266436782314031e-16 0 -1 -1.9428902930940235e-16 -1 0</Rotation>
+<Translation>-0.14628827152561025 -0.011885533905932777 0.16657589498806674</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-9" uid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-9" entityUid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V*:*Default">
+<Transform>
+<Rotation>5.765457919110359e-16 1 0 -2.7755575615628889e-16 0 1 1 -5.765457919110359e-16 2.7755575615628894e-16</Rotation>
+<Translation>-0.11464327152561048 0.055300000000000002 0.13327589498806677</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-10" uid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-10" entityUid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V*:*Default">
+<Transform>
+<Rotation>-1.0033942634249288e-16 -1 1.9428902930940244e-16 1 -1.0033942634249289e-16 0 0 1.9428902930940244e-16 1</Rotation>
+<Translation>-0.18628827152561053 0.088399999999999937 0.15857589498806679</Translation>
+</Transform>
+</Instance>
+<Instance name="Mirrortop_mot_hold_2-5" uid="Mirrortop_mot_hold_2-5" entityUid="Mirrortop_mot_hold_2*:*Default">
+<Transform>
+<Rotation>-1 0 -2.7755575615628918e-16 0 1 0 2.7755575615628918e-16 0 -1</Rotation>
+<Translation>-0.18628827152561053 0.092868600682593824 0.12577589498806682</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-7" uid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-7" entityUid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V*:*Default">
+<Transform>
+<Rotation>0 -1 2.7755575615628918e-16 1 0 -1.5846517484090147e-16 1.5846517484090149e-16 2.7755575615628918e-16 1</Rotation>
+<Translation>-0.18628827152561067 0.088399999999999937 -0.092224105011933122</Translation>
+</Transform>
+</Instance>
+<Instance name="motor arm-4" uid="motor arm-4" entityUid="motor arm*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.11683827152561058 0.058299999999999991 -0.11752410501193324</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 Aluminium 25T Servo Horn-9" uid="SW2020 Aluminium 25T Servo Horn-9" entityUid="SW2020 Aluminium 25T Servo Horn*:*Default">
+<Transform>
+<Rotation>-1 -2.2204460492503127e-15 0 0 0 -1 2.2204460492503127e-15 -1 0</Rotation>
+<Translation>-0.11464327152561044 0.052299999999999992 0.1332758949880668</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 Aluminium 25T Servo Horn-10" uid="SW2020 Aluminium 25T Servo Horn-10" entityUid="SW2020 Aluminium 25T Servo Horn*:*Default">
+<Transform>
+<Rotation>1.4137996329210975e-16 -1 -3.3306690738754696e-16 -1 -1.4137996329210978e-16 0 0 3.3306690738754696e-16 -1</Rotation>
+<Translation>-0.1862882715256105 0.088399999999999951 0.15557589498806676</Translation>
+</Transform>
+</Instance>
+<Instance name="T4-4" uid="T4-4" entityUid="T4*:*Default">
+<Transform>
+<Rotation>-1 -1.5543122344752194e-15 -1.4935969128160307e-15 1.4935969128160309e-15 -1.2490009027033004e-16 -1 1.5543122344752192e-15 -1 1.2490009027033235e-16</Rotation>
+<Translation>-0.14628827152561052 -0.011885533905932865 -0.08422410501193317</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 Aluminium 25T Servo Horn-8" uid="SW2020 Aluminium 25T Servo Horn-8" entityUid="SW2020 Aluminium 25T Servo Horn*:*Default">
+<Transform>
+<Rotation>-1 0 1.1851099569693077e-16 -1.1851099569693077e-16 0 -1 0 -1 0</Rotation>
+<Translation>-0.11464327152561052 0.052299999999999999 -0.11752410501193318</Translation>
+</Transform>
+</Instance>
+<Instance name="box hold_frame_-5" uid="box hold_frame_-5" entityUid="box hold_frame_*:*Default">
+<Transform>
+<Rotation>-1 0 -2.7755575615628918e-16 0 1 0 2.7755575615628918e-16 0 -1</Rotation>
+<Translation>-0.13484327152561043 0.022499999999999992 0.14327589498806675</Translation>
+</Transform>
+</Instance>
+<Instance name="T1-5" uid="T1-5" entityUid="T1*:*Default">
+<Transform>
+<Rotation>-1 -1.6653345369377353e-16 0 0 0 -1 1.6653345369377353e-16 -1 0</Rotation>
+<Translation>-0.14628827152561041 -0.016350000000000038 0.16907589498806666</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-2" uid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-2" entityUid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V*:*Default">
+<Transform>
+<Rotation>1.0033942634249291e-16 -1 0 1 1.0033942634249291e-16 0 0 0 1</Rotation>
+<Translation>0.21740172847438963 0.088399999999999937 0.15857589498806673</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 Aluminium 25T Servo Horn-1" uid="SW2020 Aluminium 25T Servo Horn-1" entityUid="SW2020 Aluminium 25T Servo Horn*:*Default">
+<Transform>
+<Rotation>1.0000000000000002 1.9428902930940239e-15 0 0 0 1 1.9428902930940239e-15 -1.0000000000000002 0</Rotation>
+<Translation>0.14575672847438953 0.058299999999999998 0.13327589498806677</Translation>
+</Transform>
+</Instance>
+<Instance name="T4-1" uid="T4-1" entityUid="T4*:*Default">
+<Transform>
+<Rotation>-1 -4.9960036108132044e-16 -6.843484112728504e-16 6.6266436782314031e-16 0 -1 4.7184478546569153e-16 -1 0</Rotation>
+<Translation>0.25740172847438947 -0.011885533905932832 0.16657589498806669</Translation>
+</Transform>
+</Instance>
+<Instance name="9v_holder_bottom_11_19_20-1" uid="9v_holder_bottom_11_19_20-1" entityUid="9v_holder_bottom_11_19_20*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.042699371525610569 0.010604499999999999 -0.11762680501193319</Translation>
+</Transform>
+</Instance>
+<Instance name="bottom-1" uid="bottom-1" entityUid="bottom*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="box hold_frame_-1" uid="box hold_frame_-1" entityUid="box hold_frame_*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.16595672847438953 0.022499999999999992 0.14327589498806673</Translation>
+</Transform>
+</Instance>
+<Instance name="Esp8266 Node MCU-1" uid="Esp8266 Node MCU-1" entityUid="Esp8266 Node MCU*:*Default">
+<Transform>
+<Rotation>-1.0000000000000002 0 0 0 -1 0 0 0 1.0000000000000002</Rotation>
+<Translation>-0.063468271525610492 0.0049500000000000004 0.12577589498806674</Translation>
+</Transform>
+</Instance>
+<Instance name="frame-1" uid="frame-1" entityUid="frame*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.021173612484513923 0.01999999999999999 -0.07998175880306331</Translation>
+</Transform>
+</Instance>
+<Instance name="T1-1" uid="T1-1" entityUid="T1*:*Default">
+<Transform>
+<Rotation>1 1.3877787807814457e-16 0 0 0 -0.99999999999999989 -1.1102230246251565e-16 1 0</Rotation>
+<Translation>0.17740172847438951 -0.016350000000000042 0.1665758949880666</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-1" uid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-1" entityUid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V*:*Default">
+<Transform>
+<Rotation>-2.9899003575474671e-16 0.99999999999999978 0 -2.7755575615628889e-16 0 0.99999999999999978 1 2.9899003575474646e-16 2.7755575615628879e-16</Rotation>
+<Translation>0.14575672847438953 0.055300000000000002 0.13327589498806675</Translation>
+</Transform>
+</Instance>
+<Instance name="T1-1-1" uid="T1-1-1" entityUid="T1-1*:*Default">
+<Transform>
+<Rotation>1 0 -1.4224732503009816e-16 -1.4224732503009816e-16 0 -1 0 1 0</Rotation>
+<Translation>0.20740172847438954 0.056899999999999937 0.16157589498806668</Translation>
+</Transform>
+</Instance>
+<Instance name="top cover-1" uid="top cover-1" entityUid="top cover*:*Default">
+<Transform>
+<Rotation>1 0 -1.1169202727148911e-16 0 -1 0 -1.1169202727148911e-16 0 -1</Rotation>
+<Translation>-0.003265716204219604 0.10000000000000001 0.022552998706266592</Translation>
+</Transform>
+</Instance>
+<Instance name="Top_9v_holder_11_19_20-1" uid="Top_9v_holder_11_19_20-1" entityUid="Top_9v_holder_11_19_20*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.043449369527610332 0.017208988600000003 -0.11762691301193319</Translation>
+</Transform>
+</Instance>
+<Instance name="motor arm-1" uid="motor arm-1" entityUid="motor arm*:*Default">
+<Transform>
+<Rotation>-1 1.5346022077820807e-16 0 1.5346022077820802e-16 1 0 0 0 -1</Rotation>
+<Translation>0.14795172847438959 0.058300000000000012 0.13327589498806683</Translation>
+</Transform>
+</Instance>
+<Instance name="top_mot_hold_2-1" uid="top_mot_hold_2-1" entityUid="top_mot_hold_2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.21740172847438963 0.092868600682593824 0.12577589498806677</Translation>
+</Transform>
+</Instance>
+<Instance name="Arduino Mega 2560.STEP-1" uid="Arduino Mega 2560.STEP-1" entityUid="Arduino Mega 2560.STEP*:*Default">
+<Transform>
+<Rotation>1.1102230246251565e-16 1 -5.6108657585717097e-16 -1.0066962920779841e-15 -5.9093536432554546e-16 -1 -1.0000000000000004 1.6653345369377348e-16 1.007258057492018e-15</Rotation>
+<Translation>0.066538116105106404 0.003189249580776491 0.072798685031228827</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 Aluminium 25T Servo Horn-2" uid="SW2020 Aluminium 25T Servo Horn-2" entityUid="SW2020 Aluminium 25T Servo Horn*:*Default">
+<Transform>
+<Rotation>-1.4137996329210978e-16 1 0 -1 -1.4137996329210983e-16 0 0 0 1</Rotation>
+<Translation>0.2174017284743896 0.088399999999999951 0.16157589498806671</Translation>
+</Transform>
+</Instance>
+<Instance name="T4-2" uid="T4-2" entityUid="T4*:*Default">
+<Transform>
+<Rotation>-1 1.2212453270876722e-15 1.5074747006238454e-15 -1.4935969128160309e-15 -1.2490009027033011e-16 -0.99999999999999989 -1.27675647831893e-15 -1 1.3530843112619095e-16</Rotation>
+<Translation>0.25740172847438963 -0.011885533905932744 -0.084224105011933115</Translation>
+</Transform>
+</Instance>
+<Instance name="box hold_frame_-2" uid="box hold_frame_-2" entityUid="box hold_frame_*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.16595672847438953 0.022499999999999985 -0.1275241050119332</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-4" uid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-4" entityUid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V*:*Default">
+<Transform>
+<Rotation>0 -0.99999999999999989 0 1 0 -1.5846517484090159e-16 1.5846517484090147e-16 0 0.99999999999999989</Rotation>
+<Translation>0.21740172847438965 0.088399999999999937 -0.092224105011933177</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-12" uid="oval head_am-12" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>-2.7755575615628879e-16 -0.38990332898491525 0.92085579438177023 0 0.92085579438177023 0.38990332898491525 -1 0 -2.7946351951144608e-16</Rotation>
+<Translation>-0.18128827152561047 0.073599999999999999 0.1412859061239381</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 Aluminium 25T Servo Horn-3" uid="SW2020 Aluminium 25T Servo Horn-3" entityUid="SW2020 Aluminium 25T Servo Horn*:*Default">
+<Transform>
+<Rotation>1 -2.7755575615628914e-16 1.1851099569693026e-16 -1.1851099569693077e-16 0 1 -2.7755575615628914e-16 -1 0</Rotation>
+<Translation>0.1457567284743895 0.058299999999999998 -0.11752410501193322</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-15" uid="oval head_am-15" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>-2.7755575615629052e-16 0.49058971270704699 -0.87139068952222387 0 -0.87139068952222387 -0.49058971270704699 -1 0 2.718994578090752e-16</Rotation>
+<Translation>-0.19128827152561056 0.12319999999999998 -0.10951409387606201</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-22" uid="oval head_am-22" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.892381287263177 -0.4512822156284414 0 -0.4512822156284414 -0.892381287263177 -1 0 0</Rotation>
+<Translation>0.22240172847438958 0.1232 0.14128590612393802</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-3" uid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V-3" entityUid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V*:*Default">
+<Transform>
+<Rotation>-7.3730623798020057e-16 -0.99999999999999989 1.6653345369377348e-16 0 1.6653345369377358e-16 0.99999999999999989 -1 7.3730623798020086e-16 0</Rotation>
+<Translation>0.14575672847438953 0.055299999999999988 -0.11752410501193315</Translation>
+</Transform>
+</Instance>
+<Instance name="top_mot_hold_2-2" uid="top_mot_hold_2-2" entityUid="top_mot_hold_2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.21740172847438957 0.092868600682593838 -0.1250241050119332</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-1" uid="oval head_am-1" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.83825790086642615 0.54527396016590857 -1 0 0 0 -0.54527396016590857 0.83825790086642615</Rotation>
+<Translation>-0.10979327152561057 0.038010011135871241 -0.1523241050119333</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-13" uid="oval head_am-13" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>-2.7755575615628928e-16 -0.13005389104557818 -0.99150692656375572 0 -0.99150692656375572 0.13005389104557818 -1 0 2.6723495066649359e-16</Rotation>
+<Translation>-0.19128827152561056 0.073599999999999985 -0.1095140938760619</Translation>
+</Transform>
+</Instance>
+<Instance name="motor arm-2" uid="motor arm-2" entityUid="motor arm*:*Default">
+<Transform>
+<Rotation>-1.0000000000000002 1.2189330074067816e-16 1.1102230246251565e-16 1.2189330074067885e-16 0.99999999999999989 0 0 0 -1</Rotation>
+<Translation>0.14795172847438956 0.058299999999999991 -0.11752410501193326</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-16" uid="oval head_am-16" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>-2.7755575615628933e-16 -0.028855292386581837 -0.99958359935589425 0 -0.99958359935589425 0.028855292386581837 -1 0 2.7567330468748279e-16</Rotation>
+<Translation>-0.18128827152561053 0.12319999999999998 -0.1095140938760619</Translation>
+</Transform>
+</Instance>
+<Instance name="T1-1-2" uid="T1-1-2" entityUid="T1-1*:*Default">
+<Transform>
+<Rotation>1 -1.1102230246251565e-16 0 -1.4051260155412137e-16 -2.4633073358870661e-16 -1 0 1 -2.5673907444456745e-16</Rotation>
+<Translation>0.20740172847438948 0.056899999999999937 -0.089224105011933161</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-10" uid="oval head_am-10" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>-2.7755575615628943e-16 -0.71788601488097381 0.69616066366774465 0 0.69616066366774465 0.71788601488097381 -1 1.5662584927166405e-16 -2.3718123992439657e-16</Rotation>
+<Translation>-0.18128827152561044 0.12319999999999993 0.1412859061239381</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-19" uid="oval head_am-19" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 -0.92147108660180377 -0.38844695462429735 -1 0 0 0 0.38844695462429735 -0.92147108660180377</Rotation>
+<Translation>0.15090672847438955 0.038010011135871248 0.11847589498806674</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-11" uid="oval head_am-11" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>-2.7755575615628933e-16 0.79481108873391926 0.60685692978296113 0 0.60685692978296113 -0.79481108873391926 -1 -2.5776366256490122e-16 -1.1976849123735355e-16</Rotation>
+<Translation>-0.19128827152561056 0.073599999999999971 0.1412859061239381</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-14" uid="oval head_am-14" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>-2.7755575615628948e-16 -0.98043943413080981 0.19682102530283016 0 0.19682102530283016 0.98043943413080981 -1 2.6007479657226977e-16 -1.146634092499227e-16</Rotation>
+<Translation>-0.18128827152561058 0.073599999999999999 -0.10951409387606191</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-17" uid="oval head_am-17" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 -0.99999390416353728 -0.0034916522974170632 -1 0 0 0 0.0034916522974170632 -0.99999390416353728</Rotation>
+<Translation>0.14090672847438954 0.038010011135871248 0.16807589498806672</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-18" uid="oval head_am-18" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 -0.83570904369458099 -0.54917246315441692 -1 0 0 0 0.54917246315441692 -0.83570904369458099</Rotation>
+<Translation>0.15090672847438943 0.038010011135871248 0.16807589498806663</Translation>
+</Transform>
+</Instance>
+<Instance name="T1-2" uid="T1-2" entityUid="T1*:*Default">
+<Transform>
+<Rotation>1 -1.6653345369377353e-16 0 0 -1.9081958235744883e-16 -1 1.6653345369377353e-16 1 -1.9081958235744883e-16</Rotation>
+<Translation>0.17740172847438962 -0.016350000000000055 -0.08422410501193317</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-21" uid="oval head_am-21" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.6753360549927675 -0.7375101442195936 0 -0.7375101442195936 -0.6753360549927675 -1 0 0</Rotation>
+<Translation>0.21240172847438954 0.1232 0.14128590612393802</Translation>
+</Transform>
+</Instance>
+<Instance name="SW2020 Aluminium 25T Servo Horn-4" uid="SW2020 Aluminium 25T Servo Horn-4" entityUid="SW2020 Aluminium 25T Servo Horn*:*Default">
+<Transform>
+<Rotation>0 1 -9.4368957093138306e-16 -1 0 -4.649058915617843e-16 -4.6143644460983069e-16 1.2212453270876722e-15 1</Rotation>
+<Translation>0.21740172847438963 0.088399999999999881 -0.089224105011933189</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-20" uid="oval head_am-20" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 -0.83031420673731682 -0.55729553926994657 -1 0 0 0 0.55729553926994657 -0.83031420673731682</Rotation>
+<Translation>0.14090672847438948 0.038010011135871248 0.11847589498806667</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-2" uid="oval head_am-2" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 -0.99999390416353728 -0.0034916522974170632 -1 0 0 0 0.0034916522974170632 -0.99999390416353728</Rotation>
+<Translation>-0.11979327152561048 0.03801001113587122 -0.10272410501193323</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-3" uid="oval head_am-3" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.59207718836500123 -0.80588125863417059 -1 0 0 0 0.80588125863417059 0.59207718836500123</Rotation>
+<Translation>-0.10979327152561046 0.038010011135871241 0.11847589498806674</Translation>
+</Transform>
+</Instance>
+<Instance name="hex nut style 1_am-2" uid="hex nut style 1_am-2" entityUid="hex nut style 1_am*:*B18.2.4.1M - Hex nut, Style 1,  M2 x 0.4 --D-S">
+<Transform>
+<Rotation>0.99397799670859899 0.10957984330688066 0 -0.10957984330688066 0.99397799670859899 0 0 0 1</Rotation>
+<Translation>0.2174017284743896 0.064399999999999957 -0.095224105011933138</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-25" uid="oval head_am-25" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 -0.97051092233928726 0.24105715011205531 -1 0 0 0 -0.24105715011205531 -0.97051092233928726</Rotation>
+<Translation>0.14090672847438951 0.038010011135871248 -0.10272410501193317</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-26" uid="oval head_am-26" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 -0.94604482894047692 -0.32403577215329787 -1 0 0 0 0.32403577215329787 -0.94604482894047692</Rotation>
+<Translation>0.15090672847438957 0.038010011135871262 -0.10272410501193327</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-27" uid="oval head_am-27" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 -0.9473157244336774 -0.32030129291137266 -1 0 0 0 0.32030129291137266 -0.9473157244336774</Rotation>
+<Translation>0.15090672847438955 0.038010011135871241 -0.15232410501193322</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-29" uid="oval head_am-29" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 -0.94419061433138674 -0.32939958076554832 0 -0.32939958076554832 0.94419061433138674 -1 0 0</Rotation>
+<Translation>0.21240172847438948 0.12319999999999992 -0.10951409387606197</Translation>
+</Transform>
+</Instance>
+<Instance name="pan cross head_am-5" uid="pan cross head_am-5" entityUid="pan cross head_am*:*B18.6.7M - M2 x 0.4 x 20 Type I Cross Recessed PHMS --20S">
+<Transform>
+<Rotation>-3.330669073875476e-16 0.11952387539180576 -0.99283132666698426 -1.665334536937738e-16 -0.99283132666698426 -0.11952387539180576 -1 1.2553018222950088e-16 3.5058398329831017e-16</Rotation>
+<Translation>-0.18628827152561045 0.064399999999999957 0.17567589498806677</Translation>
+</Transform>
+</Instance>
+<Instance name="pan cross head_am-3" uid="pan cross head_am-3" entityUid="pan cross head_am*:*B18.6.7M - M2 x 0.4 x 20 Type I Cross Recessed PHMS --20S">
+<Transform>
+<Rotation>1.007472594533567e-16 -0.8412112207354312 -0.54070665069777457 3.5904240409858084e-16 -0.54070665069777457 0.8412112207354312 -1 -2.7888634088912808e-16 2.4755578582154696e-16</Rotation>
+<Translation>-0.18628827152561056 0.064399999999999943 -0.075124105011933118</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-30" uid="oval head_am-30" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 -0.96375610215742891 -0.2667848862929077 0 -0.2667848862929077 0.96375610215742891 -1 0 0</Rotation>
+<Translation>0.22240172847438952 0.12319999999999993 -0.10951409387606197</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-28" uid="oval head_am-28" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 -0.78087658404763349 0.62468532917469677 -1 0 0 0 -0.62468532917469677 -0.78087658404763349</Rotation>
+<Translation>0.14090672847438954 0.038010011135871248 -0.15232410501193319</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-31" uid="oval head_am-31" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.12036283403629386 -0.99272996740440533 0 -0.99272996740440533 -0.12036283403629386 -1 0 0</Rotation>
+<Translation>0.22240172847438958 0.073599999999999971 -0.10951409387606198</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-9" uid="oval head_am-9" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>-2.7755575615628933e-16 0.41205076733225338 0.91116088872432455 0 0.91116088872432455 -0.41205076733225338 -1 -1.7015957559590781e-16 -2.2766711678493406e-16</Rotation>
+<Translation>-0.19128827152561059 0.1232 0.1412859061239381</Translation>
+</Transform>
+</Instance>
+<Instance name="hex nut style 1_am-1" uid="hex nut style 1_am-1" entityUid="hex nut style 1_am*:*B18.2.4.1M - Hex nut, Style 1,  M2 x 0.4 --D-S">
+<Transform>
+<Rotation>0.99397799670859899 0.10957984330688066 0 -0.10957984330688066 0.99397799670859899 0 0 0 1</Rotation>
+<Translation>0.21740172847438952 0.064399999999999916 0.15557589498806668</Translation>
+</Transform>
+</Instance>
+<Instance name="hex nut style 1_am-3" uid="hex nut style 1_am-3" entityUid="hex nut style 1_am*:*B18.2.4.1M - Hex nut, Style 1,  M2 x 0.4 --D-S">
+<Transform>
+<Rotation>0.99397799670859899 0.10957984330688066 0 -0.10957984330688066 0.99397799670859899 0 0 0 1</Rotation>
+<Translation>-0.18628827152561053 0.064400000000000124 -0.095224105011933124</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-5" uid="oval head_am-5" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.83825790086642615 0.54527396016590857 -1 0 0 0 -0.54527396016590857 0.83825790086642615</Rotation>
+<Translation>-0.11979327152561053 0.038010011135871255 -0.15232410501193316</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-4" uid="oval head_am-4" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.9536415188145454 -0.30094493448650594 -1 0 0 0 0.30094493448650594 0.9536415188145454</Rotation>
+<Translation>-0.11979327152561041 0.038010011135871248 0.1184758949880667</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-23" uid="oval head_am-23" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.99035392420184531 -0.13856083435807498 0 -0.13856083435807498 -0.99035392420184531 -1 0 0</Rotation>
+<Translation>0.22240172847438955 0.073599999999999957 0.14128590612393804</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-24" uid="oval head_am-24" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.91183987649526999 -0.41054602620545566 0 -0.41054602620545566 -0.91183987649526999 -1 0 0</Rotation>
+<Translation>0.21240172847438965 0.073599999999999971 0.14128590612393804</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-32" uid="oval head_am-32" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.88405288907268198 0.46738687328833328 0 0.46738687328833328 -0.88405288907268198 -1 0 0</Rotation>
+<Translation>0.21240172847438951 0.073599999999999943 -0.10951409387606195</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-6" uid="oval head_am-6" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.98956566692678716 0.14408258340182298 -1 0 0 0 -0.14408258340182298 0.98956566692678716</Rotation>
+<Translation>-0.1097932715256105 0.038010011135871248 -0.10272410501193315</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-7" uid="oval head_am-7" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.9536415188145454 -0.30094493448650594 -1 0 0 0 0.30094493448650594 0.9536415188145454</Rotation>
+<Translation>-0.1197932715256104 0.038010011135871255 0.16807589498806669</Translation>
+</Transform>
+</Instance>
+<Instance name="oval head_am-8" uid="oval head_am-8" entityUid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S">
+<Transform>
+<Rotation>0 0.99541938771688976 -0.095604615774201526 -1 0 0 0 0.095604615774201526 0.99541938771688976</Rotation>
+<Translation>-0.10979327152561037 0.038010011135871248 0.16807589498806666</Translation>
+</Transform>
+</Instance>
+<Instance name="pan cross head_am-1" uid="pan cross head_am-1" entityUid="pan cross head_am*:*B18.6.7M - M2 x 0.4 x 20 Type I Cross Recessed PHMS --20S">
+<Transform>
+<Rotation>0 -0.92511608516053678 0.37968438073911115 0 0.37968438073911115 0.92511608516053678 -1 0 0</Rotation>
+<Translation>0.21740172847438949 0.06439999999999993 0.17567589498806671</Translation>
+</Transform>
+</Instance>
+<Instance name="pan cross head_am-2" uid="pan cross head_am-2" entityUid="pan cross head_am*:*B18.6.7M - M2 x 0.4 x 20 Type I Cross Recessed PHMS --20S">
+<Transform>
+<Rotation>1.1102230246251565e-16 -0.92511608516053656 0.37968438073911143 2.4633073358870661e-16 0.37968438073911143 0.92511608516053656 -1 0 2.7003795807101792e-16</Rotation>
+<Translation>0.2174017284743896 0.06439999999999993 -0.075124105011933159</Translation>
+</Transform>
+</Instance>
+<Instance name="pan cross head_am-7" uid="pan cross head_am-7" entityUid="pan cross head_am*:*B18.6.7M - M2 x 0.4 x 16 Type I Cross Recessed PHMS --16S">
+<Transform>
+<Rotation>1.2189330074067819e-16 -1 0 1 1.2189330074067819e-16 0 0 0 1</Rotation>
+<Translation>0.20320172847438958 0.05669999999999998 -0.11752410501193326</Translation>
+</Transform>
+</Instance>
+<Instance name="pan cross head_am-8" uid="pan cross head_am-8" entityUid="pan cross head_am*:*B18.6.7M - M2 x 0.4 x 16 Type I Cross Recessed PHMS --16S">
+<Transform>
+<Rotation>1.2189330074067819e-16 -1 0 1 1.2189330074067819e-16 0 0 0 1</Rotation>
+<Translation>0.20320172847438958 0.056700000000000014 0.13327589498806683</Translation>
+</Transform>
+</Instance>
+<Instance name="pan cross head_am-9" uid="pan cross head_am-9" entityUid="pan cross head_am*:*B18.6.7M - M2 x 0.4 x 16 Type I Cross Recessed PHMS --16S">
+<Transform>
+<Rotation>1.2189330074067819e-16 -1 0 1 1.2189330074067819e-16 0 0 0 1</Rotation>
+<Translation>-0.17208827152561049 0.056700000000000021 0.13327589498806688</Translation>
+</Transform>
+</Instance>
+<Instance name="pan cross head_am-10" uid="pan cross head_am-10" entityUid="pan cross head_am*:*B18.6.7M - M2 x 0.4 x 16 Type I Cross Recessed PHMS --16S">
+<Transform>
+<Rotation>1.2189330074067819e-16 -1 0 1 1.2189330074067819e-16 0 0 0 1</Rotation>
+<Translation>-0.17208827152561057 0.056699999999999993 -0.11752410501193324</Translation>
+</Transform>
+</Instance>
+<Instance name="hex nut style 1_am-5" uid="hex nut style 1_am-5" entityUid="hex nut style 1_am*:*B18.2.4.1M - Hex nut, Style 1,  M2 x 0.4 --D-S">
+<Transform>
+<Rotation>0.89193878088029999 0.4521561800548175 0 -0.4521561800548175 0.89193878088029999 0 0 0 1</Rotation>
+<Translation>-0.18628827152561048 0.064399999999999957 0.1555758949880667</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Coincident1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Assembly_S</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Assembly_S</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Assembly_S</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>0 0 -0.1371241050119332</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>frame-1</Uid>
+</InstancePath>
+<Position>0 0 -0.05714234620886989</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>-0.079443271525610495 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>frame-1</Uid>
+</InstancePath>
+<Position>-0.1006168840101244 0 0</Position>
+<Axis>1 0 -1.4456028966473399e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>-0.079443271525610495 0.035000000000000003 -0.040124105011933149</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>frame-1</Uid>
+</InstancePath>
+<Position>-0.1006168840101244 0.014999999999999999 0.13585765379112999</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>-0.001943271525610475 0.089999999999999997 0.150375894988067</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top cover-1</Uid>
+</InstancePath>
+<Position>0.0013224446786091202 0.040000000000000001 -0.12782289628180041</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>-0.00194327152561047 0.089999999999999997 0.147875894988067</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top cover-1</Uid>
+</InstancePath>
+<Position>0.0013224446786091202 0.040000000000000001 -0.12532289628180041</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Parallel name="Parallel3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>-0.074323851480897207 0.089999999999999997 -0.019623845717127452</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top cover-1</Uid>
+</InstancePath>
+<Position>-0.071177555321390903 0.040000000000000001 0.042177103718199604</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident13">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>0 0.089999999999999997 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top cover-1</Uid>
+</InstancePath>
+<Position>0 0.009999999999999995 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Arduino Mega 2560.STEP-1</Uid>
+</InstancePath>
+<Position>0.075322790043162557 -0.040105687630717007 0.0031892495807765439</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident15">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>0.10655672847438939 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Arduino Mega 2560.STEP-1</Uid>
+</InstancePath>
+<Position>-0.077077209956837561 0.040018612369283016 0.0031892495807765465</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident16">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>0 0 0.1498758949880668</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Arduino Mega 2560.STEP-1</Uid>
+</InstancePath>
+<Position>-0.077077209956837561 0.040018612369283016 0.0031892495807765465</Position>
+<Axis>-1.0000000000000004 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident17">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>9v_holder_bottom_11_19_20-1</Uid>
+</InstancePath>
+<Position>-0.033243899999999993 -0.010604499999999999 0.016497300000000006</Position>
+<Axis>1.8263597730467297e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident18">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>9v_holder_bottom_11_19_20-1</Uid>
+</InstancePath>
+<Position>0.0332439 0.010104499999999999 -0.016497300000000006</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>0 0 -0.1341241050119332</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident19">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>9v_holder_bottom_11_19_20-1</Uid>
+</InstancePath>
+<Position>-0.033743899999999993 0.010104499999999999 0.016497300000000006</Position>
+<Axis>-1 -3.4335661853170601e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>-0.076443271525610507 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>9v_holder_bottom_11_19_20-1</Uid>
+</InstancePath>
+<Position>-0.0257439 0.01767556781186545 -0.006997299999999998</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Top_9v_holder_11_19_20-1</Uid>
+</InstancePath>
+<Position>-0.024993901998000154 -0.0090000000000000999 -0.0069971919999999993</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident21">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>9v_holder_bottom_11_19_20-1</Uid>
+</InstancePath>
+<Position>0.0332439 0.010104499999999999 0.016497300000000006</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Top_9v_holder_11_19_20-1</Uid>
+</InstancePath>
+<Position>-0.032493902000000158 0.0034999999999999996 0.016497300000000006</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident23">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>9v_holder_bottom_11_19_20-1</Uid>
+</InstancePath>
+<Position>-0.033243899999999993 0.0026044886000000048 0.015997300000000006</Position>
+<Axis>2.93623699151916e-16 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Top_9v_holder_11_19_20-1</Uid>
+</InstancePath>
+<Position>-0.032993902000000158 -0.0040000000000000001 0.016497300000000006</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident24">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Esp8266 Node MCU-1</Uid>
+</InstancePath>
+<Position>0 0.0049500000000000004 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident25">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>0 0 0.1498758949880668</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Esp8266 Node MCU-1</Uid>
+</InstancePath>
+<Position>-0.010974999999999999 0.00165 0.02410000000000001</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident26">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bottom-1</Uid>
+</InstancePath>
+<Position>-0.076443271525610507 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Esp8266 Node MCU-1</Uid>
+</InstancePath>
+<Position>0.012975 0.00165 -0.022100000000000009</Position>
+<Axis>1.0000000000000002 0 -1.1774141239661601e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident27">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.040399999999999991 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>frame-1</Uid>
+</InstancePath>
+<Position>0.10438311598987561 0 0.1757153075822605</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident28">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.040399999999999991 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>frame-1</Uid>
+</InstancePath>
+<Position>0.10438311598987561 0 0.1255153075822602</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident29">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.040399999999999991 0.011499999999999996 0.022599999999999981</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>frame-1</Uid>
+</InstancePath>
+<Position>0.10438311598987561 0.013999999999999999 0.25085765379113001</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident30">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.040399999999999991 0.011499999999999996 0.027599999999999986</Position>
+<Axis>0 -4.3368086899420177e-16 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>frame-1</Uid>
+</InstancePath>
+<Position>0.10438311598987561 0.0059999999999999984 0.25085765379113001</Position>
+<Axis>1.3877787807814459e-16 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0059999999999999984</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident34">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-1</Uid>
+</InstancePath>
+<Position>0 0 -0.0030000000000000027</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident35">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.010000000000000009 0 -0.020100000000000007</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-1</Uid>
+</InstancePath>
+<Position>-0.010100000000000012 0.009199999999999986 -0.082879929015028359</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident36">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.0099999999999999811 0 0.020100000000000007</Position>
+<Axis>-1 0 3.4521860218443919e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-1</Uid>
+</InstancePath>
+<Position>0.029100000000000015 0.010200000000000015 -0.082879929015028372</Position>
+<Axis>0 0.99999999999999978 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident38">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>0 0.014999999999999999 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-1</Uid>
+</InstancePath>
+<Position>-0.009099999999999997 0.009199999999999986 -0.017799999999999989</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor arm-1</Uid>
+</InstancePath>
+<Position>-0.0067049999999999887 -0.0059999999999999984 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-1</Uid>
+</InstancePath>
+<Position>0.0088999999999999913 0 -0.0069999999999999993</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric8">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor arm-1</Uid>
+</InstancePath>
+<Position>-0.017805000000000015 -0.0059999999999999984 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-1</Uid>
+</InstancePath>
+<Position>0.020000000000000018 0 -0.0069999999999999993</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric9">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor arm-1</Uid>
+</InstancePath>
+<Position>-0.021804999999999991 -0.0059999999999999984 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-1</Uid>
+</InstancePath>
+<Position>0.024000000000000021 0 -0.0069999999999999993</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident39">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor arm-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident40">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1</Uid>
+</InstancePath>
+<Position>0 0 -0.063249999999999973</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-1</Uid>
+</InstancePath>
+<Position>0 0 0.010000000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident41">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1</Uid>
+</InstancePath>
+<Position>0.047500000000000014 0.0050000000000000044 -0.063249999999999973</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-1</Uid>
+</InstancePath>
+<Position>0.017500000000000016 0.010000000000000009 0.009999999999999995</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident42">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1</Uid>
+</InstancePath>
+<Position>0.047500000000000014 -0.0025000000000000022 -0.063249999999999973</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-1</Uid>
+</InstancePath>
+<Position>0.017500000000000016 0.010000000000000009 0.009999999999999995</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-1</Uid>
+</InstancePath>
+<Position>0.020749999999999991 -0.0075000000000000067 -0.041464466094067232</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T4-1</Uid>
+</InstancePath>
+<Position>0.059250000000000025 -0.0025000000000000022 -0.036999999999999998</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-1</Uid>
+</InstancePath>
+<Position>0.040000000000000008 -0.0075000000000000067 -0.041464466094067232</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T4-1</Uid>
+</InstancePath>
+<Position>0.040000000000000036 -0.0025000000000000022 -0.036999999999999998</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-1</Uid>
+</InstancePath>
+<Position>0.059249999999999997 -0.0075000000000000067 -0.041464466094067287</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T4-1</Uid>
+</InstancePath>
+<Position>0.020750000000000046 -0.0024999999999999745 -0.036999999999999998</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Tangent name="Tangent1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-1</Uid>
+</InstancePath>
+<Position>0.058563859338365498 0.0017500000000000016 0</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T4-1</Uid>
+</InstancePath>
+<Position>0.075000000000000011 0 -0.035000000000000003</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Tangent>
+<Concentric name="Concentric13">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-2</Uid>
+</InstancePath>
+<Position>0 0 -0.0060000000000000053</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident43">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-2</Uid>
+</InstancePath>
+<Position>0 0 -0.0030000000000000027</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident44">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>-0.020199999999999996 0.025631399317406142 0.014999999999999986</Position>
+<Axis>1.717547996016641e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-2</Uid>
+</InstancePath>
+<Position>0.030099999999999988 -0.009199999999999986 -0.082879929015028386</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident45">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>-0.010199999999999987 0.035631399317406151 0.014999999999999986</Position>
+<Axis>1 1.1526401833732937e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-2</Uid>
+</InstancePath>
+<Position>0.029099999999999973 0.010200000000000015 -0.082879929015028386</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident46">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>0 0 0.014999999999999986</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-2</Uid>
+</InstancePath>
+<Position>-0.009099999999999997 0.0092000000000000137 -0.01780000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric14">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>-0.01419999999999999 -0.024568600682593852 0.0075000000000000067</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor arm-1</Uid>
+</InstancePath>
+<Position>-0.055249999999999994 0.0099999999999999881 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident47">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor arm-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000002 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>-0.020199999999999996 -0.024568600682593852 0.014999999999999986</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident49">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor arm-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>0 0 0.0075000000000000067</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric15">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-1-1</Uid>
+</InstancePath>
+<Position>0.010000000000000009 0.012500000000000011 -0.0074999999999999858</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-2</Uid>
+</InstancePath>
+<Position>0.023999999999999994 0 -0.0070000000000000062</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident50">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-1</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0 -0.0079999999999999863</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Parallel name="Parallel11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Assembly_S</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident51">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>frame-1</Uid>
+</InstancePath>
+<Position>0.10438311598987561 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.040399999999999991 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident52">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>frame-1</Uid>
+</InstancePath>
+<Position>0.10438311598987561 0.0059999999999999984 -0.075142346208869906</Position>
+<Axis>1.3877787807814459e-16 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.040399999999999991 0.0034999999999999996 -0.027599999999999986</Position>
+<Axis>0 -4.3368086899420177e-16 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident53">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>frame-1</Uid>
+</InstancePath>
+<Position>0.10438311598987561 0.013999999999999999 -0.075142346208869906</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.040399999999999991 0.011500000000000003 -0.027599999999999986</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident54">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.03040000000000001 0 0.020100000000000021</Position>
+<Axis>-6.8028371606933567e-16 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-3</Uid>
+</InstancePath>
+<Position>-0.010099999999999998 0.0092000000000000137 -0.082879929015028372</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident55">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.0099999999999999811 0 0.020100000000000007</Position>
+<Axis>-1 0 3.4521860218443919e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-3</Uid>
+</InstancePath>
+<Position>-0.009099999999999997 -0.010199999999999987 -0.082879929015028372</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident56">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>0 0.014999999999999999 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-3</Uid>
+</InstancePath>
+<Position>-0.0091000000000000109 0.009199999999999986 -0.017799999999999996</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric17">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-3</Uid>
+</InstancePath>
+<Position>0 0 -0.0059999999999999984</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident58">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-3</Uid>
+</InstancePath>
+<Position>0 0 -0.0030000000000000027</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric18">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor arm-2</Uid>
+</InstancePath>
+<Position>-0.0067049999999999887 -0.0059999999999999984 0</Position>
+<Axis>0 0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-3</Uid>
+</InstancePath>
+<Position>0.0088999999999999913 0 -0.0069999999999999923</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric19">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor arm-2</Uid>
+</InstancePath>
+<Position>-0.017805000000000015 -0.0060000000000000053 0</Position>
+<Axis>0 0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-3</Uid>
+</InstancePath>
+<Position>0.01999999999999999 0 -0.0069999999999999923</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric20">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor arm-2</Uid>
+</InstancePath>
+<Position>-0.021804999999999991 -0.0060000000000000053 0</Position>
+<Axis>0 0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-3</Uid>
+</InstancePath>
+<Position>0.023999999999999994 0 -0.0069999999999999923</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident59">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor arm-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric21">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor arm-2</Uid>
+</InstancePath>
+<Position>-0.055250000000000049 0.010000000000000002 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>-0.01419999999999999 -0.024568600682593852 0.0075000000000000067</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident60">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor arm-2</Uid>
+</InstancePath>
+<Position>0 0.0099999999999999881 0</Position>
+<Axis>0 0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>-0.020199999999999996 -0.024568600682593852 0.014999999999999999</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident61">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-2</Uid>
+</InstancePath>
+<Position>0 0 -0.063250000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-2</Uid>
+</InstancePath>
+<Position>0 0 0.010000000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident62">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-2</Uid>
+</InstancePath>
+<Position>0.047500000000000014 0.0050000000000000044 -0.063250000000000001</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-2</Uid>
+</InstancePath>
+<Position>0.017500000000000016 0.009999999999999995 0.010000000000000009</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident63">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-2</Uid>
+</InstancePath>
+<Position>0.047499999999999987 -0.0024999999999999883 -0.063250000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-2</Uid>
+</InstancePath>
+<Position>0.017500000000000016 0.009999999999999995 0.010000000000000009</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric22">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-2</Uid>
+</InstancePath>
+<Position>0.059249999999999997 -0.0074999999999999928 -0.041464466094067301</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T4-2</Uid>
+</InstancePath>
+<Position>0.020750000000000018 -0.0025000000000000022 -0.036999999999999991</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric23">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-2</Uid>
+</InstancePath>
+<Position>0.040000000000000008 -0.0074999999999999928 -0.041464466094067245</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T4-2</Uid>
+</InstancePath>
+<Position>0.040000000000000036 -0.0025000000000000022 -0.036999999999999984</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric24">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-2</Uid>
+</InstancePath>
+<Position>0.020749999999999991 -0.0075000000000000067 -0.041464466094067245</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T4-2</Uid>
+</InstancePath>
+<Position>0.059250000000000025 -0.0025000000000000022 -0.036999999999999984</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident64">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T4-2</Uid>
+</InstancePath>
+<Position>0.075000000000000039 0 -0.034999999999999996</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident65">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor arm-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>0 0 0.0075000000000000067</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident66">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>0.010200000000000015 0.035631399317406165 0.014999999999999999</Position>
+<Axis>-1 -1.1526401833732937e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-4</Uid>
+</InstancePath>
+<Position>-0.009099999999999997 -0.010199999999999987 -0.082879929015028359</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident67">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>-0.020199999999999996 0.025631399317406142 0.014999999999999999</Position>
+<Axis>1.717547996016641e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-4</Uid>
+</InstancePath>
+<Position>0.030100000000000002 -0.009199999999999986 -0.082879929015028386</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident68">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>0 0 0.014999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-4</Uid>
+</InstancePath>
+<Position>-0.009099999999999997 0.009199999999999986 -0.017799999999999996</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric25">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-4</Uid>
+</InstancePath>
+<Position>0 0 -0.0060000000000000053</Position>
+<Axis>0 2.7755575615628914e-16 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident69">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-4</Uid>
+</InstancePath>
+<Position>0 0 -0.0030000000000000027</Position>
+<Axis>0 -2.7755575615628914e-16 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 DS3225MG Servo 25Kg 4.8-6.8V-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric26">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-1-2</Uid>
+</InstancePath>
+<Position>0.010000000000000009 0.012499999999999997 -0.0074999999999999928</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-4</Uid>
+</InstancePath>
+<Position>0.023999999999999994 0 -0.0069999999999999923</Position>
+<Axis>0 2.7755575615628914e-16 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident70">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-2</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0 -0.0079999999999999793</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 2.7755575615628914e-16 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 2.7755575615628914e-16</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Parallel name="Parallel13">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Assembly_S</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Concentric name="Concentric27">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-4</Uid>
+</InstancePath>
+<Position>-0.025050000000000003 0.014999999999999999 0.024800000000000016</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-1</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric28">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-4</Uid>
+</InstancePath>
+<Position>-0.025050000000000003 0.014999999999999999 0.024800000000000016</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>oval head_am-1</Uid>
+</InstancePath>
+<Position>-0.015874999999999979 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident73">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-4</Uid>
+</InstancePath>
+<Position>-0.025050000000000003 0.015000000000000006 0.024800000000000016</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-1</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric30">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-4</Uid>
+</InstancePath>
+<Position>-0.015050000000000008 0.014999999999999999 0.024799999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-5</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident74">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-4</Uid>
+</InstancePath>
+<Position>-0.015050000000000008 0.015000000000000006 0.024799999999999989</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-5</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric31">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-4</Uid>
+</InstancePath>
+<Position>-0.015050000000000008 0.014999999999999999 -0.024799999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-2</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident75">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-4</Uid>
+</InstancePath>
+<Position>-0.015050000000000008 0.015000000000000006 -0.024799999999999989</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-2</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric32">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-4</Uid>
+</InstancePath>
+<Position>-0.025050000000000003 0.014999999999999999 -0.024799999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-6</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident77">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-4</Uid>
+</InstancePath>
+<Position>-0.025050000000000003 0.015000000000000006 -0.024799999999999989</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-6</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric33">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-5</Uid>
+</InstancePath>
+<Position>-0.025049999999999989 0.014999999999999999 0.024800000000000003</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-3</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident78">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-5</Uid>
+</InstancePath>
+<Position>-0.025049999999999989 0.014999999999999999 0.024800000000000003</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-3</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric34">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-5</Uid>
+</InstancePath>
+<Position>-0.015049999999999994 0.014999999999999999 0.024800000000000003</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-4</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident79">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-5</Uid>
+</InstancePath>
+<Position>-0.015049999999999994 0.014999999999999999 0.024800000000000003</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-4</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric35">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-5</Uid>
+</InstancePath>
+<Position>-0.015049999999999994 0.014999999999999999 -0.024799999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-7</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident80">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-5</Uid>
+</InstancePath>
+<Position>-0.015049999999999994 0.014999999999999999 -0.024799999999999989</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-7</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric36">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-5</Uid>
+</InstancePath>
+<Position>-0.025049999999999989 0.014999999999999999 -0.024799999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-8</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident81">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-5</Uid>
+</InstancePath>
+<Position>-0.025049999999999989 0.014999999999999999 -0.024799999999999989</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-8</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric37">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-5</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0.030331399317406152 -0.015000000000000013</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-9</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident82">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-5</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0.030331399317406152 -0.015000000000000013</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-9</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric38">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-5</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0.030331399317406152 -0.014999999999999986</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-10</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident84">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-5</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0.030331399317406152 -0.014999999999999986</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-10</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric39">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-5</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 -0.019268600682593853 -0.015000000000000013</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-11</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident85">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-5</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 -0.019268600682593853 -0.015000000000000013</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-11</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric40">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-5</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 -0.019268600682593853 -0.014999999999999986</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-12</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident86">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-5</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 -0.019268600682593853 -0.014999999999999986</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-12</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric41">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-4</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 -0.019268600682593853 -0.014999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-13</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident87">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-4</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 -0.019268600682593853 -0.014999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-13</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric42">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-4</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 -0.019268600682593853 -0.014999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-14</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident88">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-4</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 -0.019268600682593853 -0.014999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-14</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric43">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-4</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0.030331399317406138 -0.014999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-15</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident89">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-4</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0.030331399317406138 -0.014999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-15</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric44">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-4</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0.030331399317406138 -0.014999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-16</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident90">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>Mirrortop_mot_hold_2-4</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0.030331399317406138 -0.014999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-16</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric45">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.025049999999999989 0.014999999999999999 0.024799999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-17</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident91">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.025049999999999989 0.014999999999999999 0.024799999999999989</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-17</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric46">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.015050000000000008 0.014999999999999999 0.024799999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-18</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident92">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.015050000000000008 0.014999999999999999 0.024799999999999989</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-18</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric47">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.015050000000000008 0.014999999999999999 -0.024800000000000003</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-19</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident93">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.015050000000000008 0.014999999999999999 -0.024800000000000003</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-19</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric48">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.025049999999999989 0.014999999999999999 -0.024800000000000003</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-20</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident94">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-1</Uid>
+</InstancePath>
+<Position>-0.025049999999999989 0.014999999999999999 -0.024800000000000003</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-20</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric49">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0.030331399317406152 0.014999999999999986</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-21</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident95">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0.030331399317406152 0.015000000000000013</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-21</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric50">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0.030331399317406152 0.014999999999999986</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-22</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident96">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0.030331399317406152 0.015000000000000013</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-22</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric51">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 -0.019268600682593853 0.014999999999999986</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-23</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident97">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 -0.019268600682593853 0.015000000000000013</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-23</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric52">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 -0.019268600682593853 0.014999999999999986</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-24</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident98">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>top_mot_hold_2-1</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 -0.019268600682593853 0.015000000000000013</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-24</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric53">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.025049999999999989 0.014999999999999999 0.024800000000000003</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-25</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident99">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.025049999999999989 0.015000000000000006 0.024800000000000003</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-25</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric54">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.015050000000000008 0.014999999999999999 0.024800000000000003</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-26</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident100">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.015050000000000008 0.015000000000000006 0.024800000000000003</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-26</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric55">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.015050000000000008 0.014999999999999999 -0.024799999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-27</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident101">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.015050000000000008 0.015000000000000006 -0.024799999999999989</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-27</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric56">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.025049999999999989 0.014999999999999999 -0.024799999999999989</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-28</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident102">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>box hold_frame_-2</Uid>
+</InstancePath>
+<Position>-0.025049999999999989 0.015000000000000006 -0.024799999999999989</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-28</Uid>
+</InstancePath>
+<Position>0.0017100111358712769 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric57">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0.030331399317406138 0.014999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-29</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident103">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0.030331399317406138 0.014999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-29</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric58">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0.030331399317406138 0.014999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-30</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident104">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0.030331399317406138 0.014999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-30</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric59">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 -0.019268600682593853 0.014999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-31</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident105">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 -0.019268600682593853 0.014999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-31</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric60">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 -0.019268600682593853 0.014999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-32</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident106">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>top_mot_hold_2-2</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 -0.019268600682593853 0.014999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>oval head_am-32</Uid>
+</InstancePath>
+<Position>0.00171001113587127 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric61">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-1-1</Uid>
+</InstancePath>
+<Position>0.010000000000000009 0.012500000000000011 -0.0074999999999999858</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>pan cross head_am-1</Uid>
+</InstancePath>
+<Position>0.0032000000000000084 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident107">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-1</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0.012500000000000011 -0.0079999999999999863</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan cross head_am-1</Uid>
+</InstancePath>
+<Position>0.0015999999999999903 0.0010000000000000286 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric62">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>pan cross head_am-1</Uid>
+</InstancePath>
+<Position>0.021600000000000008 0 0</Position>
+<Axis>1 1.2246063538223773e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>hex nut style 1_am-1</Uid>
+</InstancePath>
+<Position>0 0 -0.00016544150764194465</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident108">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-2</Uid>
+</InstancePath>
+<Position>-0.0073939164182454803 -0.0060000000000000053 -0.0060000000000000053</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hex nut style 1_am-1</Uid>
+</InstancePath>
+<Position>0 0.002309401076758491 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric63">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-1-2</Uid>
+</InstancePath>
+<Position>0.010000000000000009 0.012499999999999997 -0.0074999999999999928</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan cross head_am-2</Uid>
+</InstancePath>
+<Position>-0.025399999999999964 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident110">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-2</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0.012499999999999997 -0.0079999999999999932</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan cross head_am-2</Uid>
+</InstancePath>
+<Position>0.0016000000000000042 0.0010000000000000009 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric64">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>pan cross head_am-2</Uid>
+</InstancePath>
+<Position>0.021599999999999994 0 0</Position>
+<Axis>1 1.2246063538223773e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>hex nut style 1_am-2</Uid>
+</InstancePath>
+<Position>0 0 -0.00016544150764194465</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident112">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-4</Uid>
+</InstancePath>
+<Position>-0.0073939164182454803 -0.0060000000000000053 -0.0060000000000000053</Position>
+<Axis>0 -2.7755575615628914e-16 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hex nut style 1_am-2</Uid>
+</InstancePath>
+<Position>0 0.0023094010767585049 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric65">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>hex nut style 1_am-3</Uid>
+</InstancePath>
+<Position>0 0 -0.00016544150764194465</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>pan cross head_am-3</Uid>
+</InstancePath>
+<Position>0.021600000000000008 0 0</Position>
+<Axis>1 1.2246063538223778e-16 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric66">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-1-4</Uid>
+</InstancePath>
+<Position>0.010000000000000009 0.012499999999999997 -0.0074999999999999997</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan cross head_am-3</Uid>
+</InstancePath>
+<Position>-0.025399999999999957 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident113">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-4</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0.012499999999999997 -0.0080000000000000002</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan cross head_am-3</Uid>
+</InstancePath>
+<Position>0.0016000000000000042 0.0010000000000000009 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric67">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>hex nut style 1_am-3</Uid>
+</InstancePath>
+<Position>0 0 -0.0015745999999999954</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>pan cross head_am-3</Uid>
+</InstancePath>
+<Position>0.021600000000000008 0 0</Position>
+<Axis>1 1.2246063538223778e-16 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident115">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-7</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hex nut style 1_am-3</Uid>
+</InstancePath>
+<Position>0 0.0023094010767585049 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric68">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>Assembly_S</Uid>
+</InstancePath>
+<Position>-0.059199108386520372 0.024469443268591295 0.078148113689626611</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>Assembly_S</Uid>
+</InstancePath>
+<Position>-0.059199108386520372 0.024469443268591275 0.07681355519726854</Position>
+<Axis>0 2.9282712409872966e-16 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric69">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>T1-1-5</Uid>
+</InstancePath>
+<Position>0.010000000000000009 0.012500000000000011 -0.0074999999999999997</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan cross head_am-5</Uid>
+</InstancePath>
+<Position>-0.02539999999999995 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident117">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>T1-1-5</Uid>
+</InstancePath>
+<Position>0.0050000000000000044 0.012500000000000011 -0.0079999999999999863</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan cross head_am-5</Uid>
+</InstancePath>
+<Position>0.0015999999999999903 0.00099999999999998701 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric70">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>hex nut style 1_am-5</Uid>
+</InstancePath>
+<Position>0 0 -0.00016544150764194465</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>pan cross head_am-5</Uid>
+</InstancePath>
+<Position>0.021600000000000008 0 0</Position>
+<Axis>1 1.2246063538223773e-16 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident119">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SW2020 Aluminium 25T Servo Horn-10</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>hex nut style 1_am-5</Uid>
+</InstancePath>
+<Position>0 0.0023094010767585049 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident120">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor arm-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan cross head_am-7</Uid>
+</InstancePath>
+<Position>0.0015999999999999973 0.0010000000000000009 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric72">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor arm-2</Uid>
+</InstancePath>
+<Position>-0.055250000000000049 0.010000000000000002 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan cross head_am-7</Uid>
+</InstancePath>
+<Position>-0.025399999999999964 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident121">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor arm-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan cross head_am-8</Uid>
+</InstancePath>
+<Position>0.0015999999999999973 0.0010000000000000009 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric73">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor arm-1</Uid>
+</InstancePath>
+<Position>-0.055249999999999994 0.0099999999999999881 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan cross head_am-8</Uid>
+</InstancePath>
+<Position>-0.025399999999999964 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident122">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor arm-5</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan cross head_am-9</Uid>
+</InstancePath>
+<Position>0.0015999999999999973 0.0010000000000000009 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric74">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor arm-5</Uid>
+</InstancePath>
+<Position>-0.055249999999999994 0.010000000000000002 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan cross head_am-9</Uid>
+</InstancePath>
+<Position>-0.025399999999999964 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident123">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor arm-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan cross head_am-10</Uid>
+</InstancePath>
+<Position>0.0015999999999999973 0.0010000000000000009 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric75">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor arm-4</Uid>
+</InstancePath>
+<Position>-0.055249999999999994 0.009999999999999995 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan cross head_am-10</Uid>
+</InstancePath>
+<Position>-0.025399999999999964 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="9v_holder_bottom_11_19_20" uid="9v_holder_bottom_11_19_20*:*Default" version="106">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="9v_holder_bottom_11_19_20.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>8.7406094858729422e-06</Mass>
+<CenterOfMass>-0.0034022208513172824 -0.0047770388045221728 -3.8773482502435016e-07</CenterOfMass>
+<Inertia>1.3344784617460816e-09 5.6690217006902546e-09 4.8004022546231348e-09 3.8074436235284306e-12 4.9070416529285673e-12 1.912094624501717e-11</Inertia>
+</MassProperties>
+<GeometryFile name="9v_holder_bottom_11_19_20_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Arduino Mega 2560.STEP" uid="Arduino Mega 2560.STEP*:*Default" version="115">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="Arduino Mega 2560.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.055956165031048992</Mass>
+<CenterOfMass>0.0017544239174489226 8.707423212985989e-05 -0.0014254993675070929</CenterOfMass>
+<Inertia>3.5293622991470792e-05 0.00013753694887204895 0.00017037636085413769 2.4728203663955715e-07 7.9852855818040171e-07 2.6704268484298634e-07</Inertia>
+</MassProperties>
+<GeometryFile name="Arduino Mega 2560.STEP_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Esp8266 Node MCU" uid="Esp8266 Node MCU*:*Default" version="119">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Esp8266 Node MCU.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0036218762200655188</Mass>
+<CenterOfMass>6.5506860184395217e-06 0.00092802768937918633 0.0014633427992439467</CenterOfMass>
+<Inertia>6.1340624653196541e-07 8.1123927067628582e-07 2.2463840921514545e-07 -1.1626723327458289e-08 -2.2198494183250034e-10 -1.2392356035702597e-10</Inertia>
+</MassProperties>
+<GeometryFile name="Esp8266 Node MCU_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Mirrortop_mot_hold_2" uid="Mirrortop_mot_hold_2*:*Default" version="108">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Mirrortop_mot_hold_2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.030564647537040465</Mass>
+<CenterOfMass>4.1944825934915428e-05 0.006016782195958378 -0.0084779861326158105</CenterOfMass>
+<Inertia>1.2257136366460209e-05 6.7268881264544233e-06 1.6780973466505293e-05 2.1812683893721954e-07 -1.2538064082618913e-09 3.2606078320208688e-08</Inertia>
+</MassProperties>
+<GeometryFile name="Mirrortop_mot_hold_2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Specular r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Emissive r="0.20941176470588233" g="0.20941176470588233" b="0.20941176470588233" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="SW2020 Aluminium 25T Servo Horn" uid="SW2020 Aluminium 25T Servo Horn*:*Default" version="123">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SW2020 Aluminium 25T Servo Horn.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0013805121786503514</Mass>
+<CenterOfMass>0.0086887510333325362 1.0988700064687146e-05 -0.0026795111339507622</CenterOfMass>
+<Inertia>1.7889662864813586e-08 1.4372600176867581e-07 1.5438199024473463e-07 2.3817912808168682e-12 -2.2446745135680559e-09 -1.6120200202671862e-09</Inertia>
+</MassProperties>
+<GeometryFile name="SW2020 Aluminium 25T Servo Horn_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="SW2020 DS3225MG Servo 25Kg 4.8-6.8V" uid="SW2020 DS3225MG Servo 25Kg 4.8-6.8V*:*Default" version="119">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SW2020 DS3225MG Servo 25Kg 4.8-6.8V.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.03335273370674461</Mass>
+<CenterOfMass>0.0098434708530688829 7.5103264142254762e-11 -0.025564262639463733</CenterOfMass>
+<Inertia>5.5681331151202821e-06 9.1197166841284475e-06 5.804529253530009e-06 -8.2742341867912528e-14 2.3300529657237563e-08 1.6378171711240041e-13</Inertia>
+</MassProperties>
+<GeometryFile name="SW2020 DS3225MG Servo 25Kg 4.8-6.8V_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="T1" uid="T1*:*Default" version="121">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="T1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.017970784157668077</Mass>
+<CenterOfMass>0.039442635579217115 0.0012455799229951093 -0.020328573100980133</CenterOfMass>
+<Inertia>1.9319714735942488e-05 2.1291474797888289e-05 2.7081657627960694e-06 -1.8377963545129458e-10 2.6933197074581785e-07 4.9974474599630393e-11</Inertia>
+</MassProperties>
+<GeometryFile name="T1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Specular r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Emissive r="0.20941176470588233" g="0.20941176470588233" b="0.20941176470588233" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="T1-1" uid="T1-1*:*Default" version="121">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="T1-1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0051825981295538937</Mass>
+<CenterOfMass>0.0099999999999999985 0.0062500000000000003 -0.0032171111882202908</CenterOfMass>
+<Inertia>2.4780003021666678e-07 3.391328412967838e-07 2.0304630403724967e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="T1-1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Specular r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Emissive r="0.20941176470588233" g="0.20941176470588233" b="0.20941176470588233" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="T4" uid="T4*:*Default" version="121">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="T4.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.009268455598267859</Mass>
+<CenterOfMass>0.040000030454872527 0.0079681737391877391 -0.022533850665209153</CenterOfMass>
+<Inertia>1.8750117043668613e-06 6.4304528446936447e-06 5.2076997173567159e-06 -6.9796003821949283e-07 -7.9559477855778582e-12 -3.3549868472549424e-12</Inertia>
+</MassProperties>
+<GeometryFile name="T4_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Diffuse r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Specular r="0.14901960784313725" g="0.14901960784313725" b="0.14901960784313725" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Top_9v_holder_11_19_20" uid="Top_9v_holder_11_19_20*:*Default" version="119">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Top_9v_holder_11_19_20.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0046103297366998025</Mass>
+<CenterOfMass>-0.0023402114117475163 0.0019663841464981195 -4.0528506641912657e-05</CenterOfMass>
+<Inertia>5.8347141669814856e-07 2.4501904450866589e-06 1.9106431218074409e-06 -7.6152611376644728e-11 -4.2328370876211048e-09 -3.7387838867838219e-08</Inertia>
+</MassProperties>
+<GeometryFile name="Top_9v_holder_11_19_20_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="bottom" uid="bottom*:*Default" version="137">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="bottom.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.6256177500021831</Mass>
+<CenterOfMass>0.017324285373846428 0.022695742630755879 0.0078759035404671312</CenterOfMass>
+<Inertia>0.01791506934508796 0.024803057067131526 0.010148815183847377 -5.5339594111810818e-10 3.1525683814420701e-11 -6.3663589419266599e-05</Inertia>
+</MassProperties>
+<GeometryFile name="bottom_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Specular r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Emissive r="0.20941176470588233" g="0.20941176470588233" b="0.20941176470588233" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="box hold_frame_" uid="box hold_frame_*:*Default" version="217">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="box hold_frame_.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.019423757484086306</Mass>
+<CenterOfMass>-0.012266879075125593 0.0074610437763513449 0</CenterOfMass>
+<Inertia>8.9931609181583863e-06 1.057676741412979e-05 2.2771697408023921e-06 1.4896850699903069e-12 0 -5.8893026819377126e-09</Inertia>
+</MassProperties>
+<GeometryFile name="box hold_frame__Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Specular r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Emissive r="0.20941176470588233" g="0.20941176470588233" b="0.20941176470588233" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="frame" uid="frame*:*Default" version="121">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="frame.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.56085630289208888</Mass>
+<CenterOfMass>-0.0056168840101243353 0.009999999999999995 0.087857653791130114</CenterOfMass>
+<Inertia>0.0086889171302072729 0.013500405679933453 0.0048468824075651651 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="frame_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Specular r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Emissive r="0.20941176470588233" g="0.20941176470588233" b="0.20941176470588233" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="hex nut style 1_am" uid="hex nut style 1_am*:*B18.2.4.1M - Hex nut, Style 1,  M2 x 0.4 --D-S" version="1248">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="hex nut style 1_am.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.8148221653470317e-05</Mass>
+<CenterOfMass>0 8.1995681529230454e-10 -0.00079993766307840189</CenterOfMass>
+<Inertia>2.7344510204696963e-11 2.734434002502033e-11 4.708806617701334e-11 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="hex nut style 1_am_B18.2.4.1M - Hex nut- Style 1-  M2 x 0.4 --D-S_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="motor arm" uid="motor arm*:*Default" version="108">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="motor arm.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.011217497295299549</Mass>
+<CenterOfMass>-0.021834711305428151 0.0049104026241078222 0</CenterOfMass>
+<Inertia>2.8146878756166467e-07 4.2294080450277267e-06 4.1494582999300306e-06 0 0 7.5514375932537364e-09</Inertia>
+</MassProperties>
+<GeometryFile name="motor arm_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Specular r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Emissive r="0.20941176470588233" g="0.20941176470588233" b="0.20941176470588233" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="oval head_am" uid="oval head_am*:*B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S" version="1363">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="oval head_am.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.4787733695358501e-05</Mass>
+<CenterOfMass>0.0043373621229432294 0 0</CenterOfMass>
+<Inertia>2.8487020322667656e-11 3.8037713536124791e-10 3.8037713536124791e-10 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="oval head_am_B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed OHMS --10S_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pan cross head_am" uid="pan cross head_am*:*B18.6.7M - M2 x 0.4 x 16 Type I Cross Recessed PHMS --16S" version="1290">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pan cross head_am.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>5.7180544090122543e-05</Mass>
+<CenterOfMass>0.0073054578494871018 0 0</CenterOfMass>
+<Inertia>4.6645070234934764e-11 1.7499698125230244e-09 1.7499698125230244e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="pan cross head_am_B18.6.7M - M2 x 0.4 x 16 Type I Cross Recessed PHMS --16S_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pan cross head_am" uid="pan cross head_am*:*B18.6.7M - M2 x 0.4 x 20 Type I Cross Recessed PHMS --20S" version="1289">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pan cross head_am.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>6.7669075561555499e-05</Mass>
+<CenterOfMass>0.0092110833592607029 0 0</CenterOfMass>
+<Inertia>5.1134202355023539e-11 3.1058495793833172e-09 3.1058495793833172e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="pan cross head_am_B18.6.7M - M2 x 0.4 x 20 Type I Cross Recessed PHMS --20S_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="top cover" uid="top cover*:*Default" version="121">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="top cover.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.54027908388399593</Mass>
+<CenterOfMass>0.018822444678609 0.005275574254113004 0.014677103718199528</CenterOfMass>
+<Inertia>0.004581092736134205 0.0067318365063554425 0.0021935870157076837 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="top cover_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Specular r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Emissive r="0.20941176470588233" g="0.20941176470588233" b="0.20941176470588233" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="top_mot_hold_2" uid="top_mot_hold_2*:*Default" version="389">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="top_mot_hold_2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.030564704734087036</Mass>
+<CenterOfMass>4.1944747441759626e-05 0.006016796040469629 0.0084780241713234405</CenterOfMass>
+<Inertia>1.2257162673019672e-05 6.7269188711505087e-06 1.678098262167285e-05 -2.1813509481157396e-07 1.2538551749807101e-09 3.2605199430025777e-08</Inertia>
+</MassProperties>
+<GeometryFile name="top_mot_hold_2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Specular r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Emissive r="0.20941176470588233" g="0.20941176470588233" b="0.20941176470588233" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
